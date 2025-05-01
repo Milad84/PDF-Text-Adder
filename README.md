@@ -33,3 +33,10 @@ A small Python utility that automatically “stamps” an `ID:` label into the t
 ```bash
 pip install PyMuPDF
 
+# ─── Your folders ───────────────────
+INPUT_FOLDER  = r"C:\path\to\no_id_pdfs"
+OUTPUT_FOLDER = r"C:\path\to\fixed_pdfs"
+
+# ─── Stamp positioning ──────────────
+margin_right = 140   # pts in from right edge
+margin_top   = 60    # pts down from top edge
