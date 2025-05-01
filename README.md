@@ -1,12 +1,6 @@
 # PDF-Text-Adder
 This is a short script that gives you the option to add a text component to a batch of PDFs
 
-.
-├── README.md           ← this file
-├── stamp_id.py         ← main stamping script
-└── examples/           ← sample PDFs for testing (optional)
-
-
 
 # PDF ID Stamper
 
